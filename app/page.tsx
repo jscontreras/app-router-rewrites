@@ -22,7 +22,7 @@ export default function HomePage() {
             </Link>
           </li>
           <li>
-            <Link href="/api/revalidate?path=/example-post" className="text-blue-500 hover:underline">
+            <Link href="/api/revalidate?path=/blog/example-post" className="text-blue-500 hover:underline">
               Revalidate by Path
             </Link>
           </li>
